@@ -14,3 +14,7 @@ function compressBoxesTwice(boxes, boxes2) {
 }
 
 //The answer to this Big O Notation is, O(a + b), a and b being 2 different inputs
+
+//if the loop were to be nested the BigO would have been so, =(a * b). Rule of thumb
+//anything that happens on the same indentation we add and anything nested an indentation within
+//an indentation we Multiply
