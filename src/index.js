@@ -17,4 +17,4 @@ function compressBoxesTwice(boxes, boxes2) {
 
 //if the loop were to be nested the BigO would have been so, =(a * b). Rule of thumb
 //anything that happens on the same indentation we add and anything nested an indentation within
-//an indentation we Multiply
+//an indentation we Multiply, therofore, different inputs should have different variables 
